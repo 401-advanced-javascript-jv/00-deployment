@@ -5,7 +5,7 @@
 ### Author: Jesse Van Volkinburg
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-jv/00-deployment/pull/2)
 * [travis](https://travis-ci.com/401-advanced-javascript-jv/00-deployment)
 * [front-end](https://js-401d30-00-deployment.herokuapp.com/)
 

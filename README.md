@@ -17,4 +17,4 @@
 Used with no argument, returns true. Any entered argument will return false.
 
 #### Tests
-* isAlive() is truthy / isAlive(param) is falsy
+* isAlive() is truthy / isAlive(param) is falsey
